@@ -1,0 +1,43 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'QLA: Practical Examples'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Tal
+    family-names: Gurfinkel
+    email: tal.gurfinkel@uwa.edu.au
+    affiliation: UWA
+  - given-names: Kaushika
+    family-names: De Silva
+    affiliation: UWA
+  - given-names: Anuradha
+    family-names: Mahasinghe
+  - given-names: Jens
+    family-names: Renders
+    email: jens.renders@uwa.edu.au
+    affiliation: UWA
+  - given-names: Jack
+    family-names: Blyth
+    email: jack.blyth@research.uwa.edu.au
+    affiliation: UWA
+  - given-names: James
+    family-names: Greenwell
+    email: james.greenwell@research.uwa.edu.au
+    affiliation: UWA
+  - given-names: Archie
+    family-names: Butterworth
+  - given-names: Yusen
+    family-names: Wu
+  - given-names: Miloud
+    family-names: Bessafi
+  - given-names: Frederic
+    family-names: Cadet
+  - given-names: Jingbo
+    family-names: Wang
+    affiliation: UWA
+repository-code: 'https://github.com/gurfinkeltal/QLA-Practical-Examples'

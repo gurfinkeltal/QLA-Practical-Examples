@@ -23,7 +23,7 @@ The relevant files are:
 This example illustrates how to implement matrix inversion in order to solve a linear system efficiently, using QSVT.
 
 The relevant files are:
-  - [linear_systems.ipynb](linear_systems.ipynb)
+  - [matrix_inversion.ipynb](matrix_inversion.ipynb)
   - [QSP.py](QSP.py)
 
 ### 3.7 Computational Finance
